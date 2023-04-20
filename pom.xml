@@ -25,7 +25,7 @@ under the License.
     <artifactId>maven-parent</artifactId>
     <!-- please also update in maven-bom -->
     <version>39</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <artifactId>maven</artifactId>
@@ -155,7 +155,7 @@ under the License.
     <commonsLangVersion>3.12.0</commonsLangVersion>
     <junitVersion>5.9.1</junitVersion>
     <mockitoVersion>4.11.0</mockitoVersion>
-    <plexusVersion>2.1.0</plexusVersion>
+    <plexusVersion>2.1.1</plexusVersion>
     <plexusInterpolationVersion>1.26</plexusInterpolationVersion>
     <plexusUtilsVersion>4.0.0-alpha-6-SNAPSHOT</plexusUtilsVersion>
     <plexusUtilsVersionEmbedded>3.5.1</plexusUtilsVersionEmbedded>
